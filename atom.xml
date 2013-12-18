@@ -4,7 +4,7 @@
   <title><![CDATA[Блог Эвитерры]]></title>
   <link href="http://blog.eviterra.com/atom.xml" rel="self"/>
   <link href="http://blog.eviterra.com/"/>
-  <updated>2013-12-12T16:38:35+04:00</updated>
+  <updated>2013-12-18T19:43:41+04:00</updated>
   <id>http://blog.eviterra.com/</id>
   <author>
     <name><![CDATA[Eviterra]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Классные карты]]></title>
+    <link href="http://blog.eviterra.com/ohmymaps"/>
+    <updated>2013-12-18T18:33:00+04:00</updated>
+    <id>http://blog.eviterra.com/ohmymaps</id>
+    <content type="html"><![CDATA[<p>Самая полезная вещь для любителя путешествий — это карта. Она дарит уверенность в своих силах, ориентацию в пространстве и вдохновение. Тот, кто не рассматривал невсегда верные очертания дальних континентов на старинных гравюрах, кто не выискивал забавные топонимы, кто долгим зимним вечером не прочерчивал пальцем свой будущий маршрут  — сердце того закрыто для романтики странствий и приключений.</p>
+
+<p><img src="http://blog.eviterra.com/images/oh-my-maps/hands.jpg"></p>
+
+<!--more-->
+
+
+<p>Виртуальная реальность позволяет делать карты интереснее, добавлять к ним звуки, фотографии, издевательские комментарии — да что только не придет в голову! Искушений, заставляющих путешественника посетить тот или иной город — бесконечное множество, и для каждого из них можно составить свою отдельную карту. Энтузиасты Google Maps давно составили их: <a href="http://festivalmap.eu/">карту музыкальных фестивалей Европы</a> и <a href="http://www.festivalsearcher.com/festivalsmap.aspx">мира</a>, благодаря которым каждый тусовщик может распланировать бюджет на покупку авиабилетов на год вперед, <a href="http://newspapermap.com/">карта мировой прессы</a> — чтобы загодя ознакомиться с последними новостями гостеприимной страны или узнать, что без тебя происходит на далекой родине, <a href="http://www.unesco.org/culture/languages-atlas/index.php">подробный интерактивный атлас языков мира</a> и <a href="http://www.google.com/culturalinstitute/project/world-wonders">карты всех мировых достопримечательностей — от проекта Google «Чудеса света»</a> до <a href="http://unescoplaces.org/features">карты объектов всемирного наследия на сайте UNESCO</a>. Наши постоянные читатели, которые помнят путеводитель для любителя путешествовать на сухогрузах, могут дополнить его картой <a href="http://www.maerskfleet.com/#live-map,">http://www.maerskfleet.com/#live-map,</a> на которой в реальном времени отмечается местопребывание каждого судна компании Maersk.
+Есть даже <a href="http://maps.geotastic.org/rude/">карты городов с неприличными названиями</a> или <a href="http://visualizing.org/visualizations/united-states-devil-map">американских топонимов, в которых фигурирует ад и Сатана со всей своей свитой</a>. Так что когда в следующий раз вас пошлют «к черту в пекло», не забудьте свериться с этой картой. И, конечно, озаботиться американской визой.</p>
+
+<p>Среди архивных проектов стоит особо отметить невероятный <a href="http://mappinglondon.co.uk/2013/victorian-london-in-incredible-detail/">«Викторианский Лондон»</a> — настоящее удовольствие для любителей истории. Национальная библиотека Шотландии при поддержке Дэвида Рамзи отсканировали с очень высоким разрешением более чем 500 карт Лондона эпохи королевы Виктории и соединили их вместе так, что они могут быть без проблем  (с использованием OpenLayers) наложены поверх стандартных Google Maps. Подробность этих карт захватывает дух — можно видеть каждый переулок, а иногда отмечены даже отдельные деревья. Конечно, Лондон сильно изменился за 120 лет, однако в некоторых случаях эти карты демонстрируют уровень выше современного «золотого стандарта».</p>
+
+<p>А вот две очень необычные карты, о которых наши предки не могли и мечтать.</p>
+
+<p><img src="http://blog.eviterra.com/images/oh-my-maps/soundmap.jpg"></p>
+
+<p>Проект, способный порадовать каждого настоящего аудиофила — звуковая карта из Монреаля, для которой были записаны звуки повседневной жизни в десятках мест города: пение птиц в парке, шум автомобильного движения в центре, плеск волн и гудки кораблей в гавани. Достаточно щелкнуть мышью в соответствующем месте и закрыть глаза — и перед вами появится город во всей красе. Карту вы можете увидеть <a href="http://www.montrealsoundmap.com/">здесь</a>.</p>
+
+<p><img src="http://blog.eviterra.com/images/oh-my-maps/windmap.jpg"></p>
+
+<p><a href="http://hint.fm/wind/">Ветровая карта США</a> демонстрирует силу и направление ветра во всем государстве в реальном времени, но больше похожа на произведение искусства. Авторы карты Фернанда Вегас и Мартин Ваттенберг, дизайнер и математик, вдохновлялись опытом создателя первой карты ветров и творца океанографии Мэтью Мори и современными поисками альтернативных источников энергии.
+На сайте размещено предупреждение о том, что карты — независимый проект, поэтому не стоит использовать её для планирования полета на планере и борьбы с лесными пожарами. Зато можно заказать постер с изображением урагана Сэнди.</p>
+
+<p>Ну и, конечно, один из самых интересных проектов — <a href="https://pastvu.com/">карты сo старыми фотографями</a>, на которых можно посмотреть на свою улицу так, как она выглядела в детстве.</p>
+
+<p>А какие интересные карты знаете вы? Расскажите нам и мы дополним эту статью :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Никогда-никогда]]></title>
@@ -698,42 +732,6 @@
 </p>
 <p>Бесплатные русскоязычные путеводители и&nbsp;карты, доступные без подключения к&nbsp;интернету. Множество советов и&nbsp;рекомендаций путешественников. Хорошее приложение для составления и&nbsp;хранения карты личных поездок.</p>
 <p>Попробуйте и&nbsp;расскажите нам о&nbsp;своих впечатлениях. В&nbsp;свою очередь признаемся, приложение <a href="https://itunes.apple.com/gb/app/iyp-guides/id447075628">In&nbsp;Your Pocket</a> не&nbsp;раз спасало нас в&nbsp;путешествиях по&nbsp;Восточной Европе ;)</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Транспорт в Лондоне. Как добраться из аэропорта Heathrow в город]]></title>
-    <link href="http://blog.eviterra.com/176410689"/>
-    <updated>2013-03-25T00:00:00+04:00</updated>
-    <id>http://blog.eviterra.com/176410689</id>
-    <content type="html"><![CDATA[<p><a href="http://www.heathrowairport.com">Лондон Хитроу</a> (Heathrow)&nbsp;&mdash; это крупнейший аэропорт в&nbsp;Европе и один из&nbsp;самых загруженных аэропортов мира. Он находится в&nbsp;25&nbsp;км от&nbsp;центра города, в настоящее время работает четыре из&nbsp;пяти терминалов (Терминал 2&nbsp;закрыт на&nbsp;реконструкцию до&nbsp;2014&nbsp;года).
-<a href="http://eviterra1.files.wordpress.com/2013/03/706df-l2.jpg"><img alt="L2" src="http://eviterra1.files.wordpress.com/2013/03/706df-l2.jpg" /></a></p><!--more-->
-<p><a href="http://eviterra1.files.wordpress.com/2013/03/e92e8-l3.jpg"><img alt="L3" src="http://eviterra1.files.wordpress.com/2013/03/e92e8-l3.jpg" /></a>
-	<a href="http://eviterra1.files.wordpress.com/2013/03/46c8b-l4.jpg"><img alt="L4" src="http://eviterra1.files.wordpress.com/2013/03/46c8b-l4.jpg" /></a>
-	<a href="http://eviterra1.files.wordpress.com/2013/03/a4531-l5.png"><img alt="L5" src="http://eviterra1.files.wordpress.com/2013/03/a4531-l5.png" /></a>
-	<a href="http://eviterra1.files.wordpress.com/2013/03/8b9aa-l6.png"><img alt="L6" src="http://eviterra1.files.wordpress.com/2013/03/8b9aa-l6.png" /></a>
-</p>
-<p>Из&nbsp;аэропорта <a href="http://www.heathrowairport.com/ru">Хитроу</a> до&nbsp;центра Лондона можно добраться несколькими способами:</p>
-<p><strong>1. <a href="https://www.heathrowexpress.com">Heathrow Express</a></strong></p>
-<p>Поезд Heathrow Express отправляется каждые 15&nbsp;минут (с&nbsp;05:07 до&nbsp;23:53). Это самый быстрый и&nbsp;удобный способ доехать до&nbsp;центра Лондона. Время в&nbsp;пути до&nbsp;вокзала&nbsp;<a href="http://ru.wikipedia.org/wiki/Паддингтон_(станция)">Paddington</a>&nbsp;составляет 15&nbsp;минут от&nbsp;остановки <a href="https://www.heathrowexpress.com/timetable-schedule/heathrow-london/terminals1-3-london-paddington">Терминал 1&nbsp;и 3</a>&nbsp;или 21&nbsp;минуту от&nbsp;остановки <a href="https://www.heathrowexpress.com/timetable-schedule/heathrow-london/terminal5-london-paddington">Терминал&nbsp;5</a>. Если вы&nbsp;прилетели в&nbsp;Терминал&nbsp;4, куда приземляются рейсы Аэрофлота, воспользуйтесь шаттлом до&nbsp;остановки Терминал 1&nbsp;и&nbsp;3. Время в&nbsp;пути составит 4&nbsp;минуты, поезда отправляются каждую четверть часа. А&nbsp;дальше&nbsp;&mdash; на&nbsp;Heathrow Express.</p><p><a href="https://www.heathrowexpress.com/tickets-deals/prices-fares">Стоимость билета:</a></p>
-<p>В&nbsp;одну сторону&nbsp;&mdash; &pound;20, детям от&nbsp;5&nbsp;до&nbsp;15&nbsp;лет &pound;10.</p>
-<p>Туда-обратно&nbsp;&mdash; &pound;34, детям от&nbsp;5&nbsp;до&nbsp;15&nbsp;лет &pound;17.</p>
-<p>При покупке билета в&nbsp;поезде удерживается дополнительный сбор в&nbsp;&pound;5&nbsp;для взрослых билетов и&nbsp;&pound;2.50 для детских. Проездные билеты на&nbsp;общественный транспорт не&nbsp;принимаются.</p>
-
-<p><strong>2. <a href="https://www.heathrowconnect.com/index.asp?SID=%7B0D391026-F4EB-45C2-9215-478D7414AA10%7D">Heathrow Connect</a></strong></p>
-<p>Этот поезд следует тем&nbsp;же маршрутом, что и&nbsp;Heathrow Express, но&nbsp;останавливается <a href="https://www.heathrowconnect.com/index.asp?SID=%7BDA9266D9-4D43-4574-A386-E05370925EB3%">несколько раз</a> в&nbsp;пути до&nbsp;вокзала <a href="http://ru.wikipedia.org/wiki/Паддингтон_(станция)">Paddington</a>. Поездка занимает 25&nbsp;минут, поезда отправляются два раза в&nbsp;час. Поезд не&nbsp;обслуживает Терминал&nbsp;5.</p>
-<p><a href="https://www.heathrowconnect.com/content.asp?SID=%7B2F19B716-846A-4FA0-B34A-9D8397039D80%7D&amp;pageid=30">Стоимость билета: </a></p>
-<p>В&nbsp;одну сторону&nbsp;&mdash; &pound;9.50.</p><p>Туда-обратно&nbsp;&mdash; &pound;19.00.</p>
-<p>На&nbsp;билет для детей от&nbsp;5&nbsp;до&nbsp;15&nbsp;лет действует скидка в&nbsp;50% от&nbsp;цены проезда для взрослого. Проездные билеты на&nbsp;общественный транспорт не&nbsp;принимаются.</p>
-
-<p><strong>3. На&nbsp;<a href="http://www.tfl.gov.uk">метро</a></strong></p><p>Добраться до&nbsp;центра города на&nbsp;метро будет дешевле, но&nbsp;дольше. В&nbsp;аэропорту есть 3&nbsp;станции: Heathrow Central (Терминалы 1&nbsp;и&nbsp;3), а&nbsp;также станции в&nbsp;Терминалах 4&nbsp;и&nbsp;5. Поезда метро на&nbsp;Piccadilly line (обслуживает аэропорт Heathrow) отправляется каждые несколько минут. Время в&nbsp;пути составит около часа.</p>
-<p><a href="http://www.tfl.gov.uk/tickets/default.aspx">Стоимость билетов: </a></p>
-<p>Для оплаты проезда можно использовать обычные билеты, дневную карту или проездной Oyster. Стоимость варьируется в&nbsp;зависимости от&nbsp;способа оплаты проезда. Станции аэропорта Heathrow находятся в&nbsp;6-ой зоне <a href="http://www.tfl.gov.uk/assets/downloads/standard-tube-map.gif">лондонского метро</a>.</p>
-<p><strong>4. На&nbsp;автобусе <a href="http://www.nationalexpress.com/wherewego/airports/heathrow-airport.aspx">National Express</a></strong></p>
-<p>Если у&nbsp;вас объемный и&nbsp;тяжелый багаж, воспользуйтесь автобусом для того, чтобы добраться в&nbsp;город. Время в&nbsp;пути до&nbsp;станции Victoria составит 60-80 минут. Стоимость билета в одну сторону&nbsp;&mdash; &pound;8.50</p>
-
-<p><strong>5. На&nbsp;такси</strong></p><p>Дорога из&nbsp;аэропорта в&nbsp;центр/западную часть Лондона на&nbsp;такси займёт около часа и&nbsp;будет стоить &pound;55-65. Поездка оплачивается по&nbsp;показаниям счетчика. Такси типа Black Cabs можно взять у&nbsp;выхода из&nbsp;любого терминала на&nbsp;специальной стоянке, отмеченной стандартным указателем Taxi.</p>
-<p>Приятного путешествия! :)</p>
-]]></content>
   </entry>
   
 </feed>
